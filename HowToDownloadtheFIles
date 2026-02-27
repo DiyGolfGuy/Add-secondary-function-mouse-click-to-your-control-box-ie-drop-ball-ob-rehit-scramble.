@@ -1,0 +1,42 @@
+📥 How to Download MouseClickBuilder From GitHub
+You do not need a GitHub account to download this.
+1. Click the green “Code” button
+At the top‑right of the repository, you will see:
+[ Code ▼ ]
+
+
+Click it.
+2. Choose “Download ZIP”
+A menu opens — select:
+Download ZIP
+
+
+This downloads the entire folder to your computer.
+3. Extract the ZIP file
+Right‑click the ZIP → choose:
+Extract All...
+
+
+You will now have a folder that contains:
+MouseClickBuilder.ahk
+GeneratedHotkeys.ahk   (this file appears after you create your first hotkey)
+
+
+4. Install AutoHotkey v1.1
+Download AutoHotkey v1.1 from:
+https://www.autohotkey.com/download/1.1/
+(Important: NOT AutoHotkey v2)
+Install it normally.
+5. Run MouseClickBuilder
+Double‑click:
+MouseClickBuilder.ahk
+
+
+The program opens and you can begin creating hotkeys.
+
+📌 Important Notes for Non‑Technical Users
+- You do not need to edit any files.
+- You do not need to understand code.
+- You only need to run MouseClickBuilder.ahk.
+- The program automatically creates and updates GeneratedHotkeys.ahk.
+- Your hotkeys will continue working even after closing the builder.
